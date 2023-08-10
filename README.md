@@ -8,3 +8,4 @@
 - ✔ Enable distributed caching to make your CI faster · Yes
 - npm i -D @nx/angular
 - npx nx g @nx/angular:application --name=web --directory=front --routing=true --style=scss --no-interactive
+- npm i -D husky lint-staged
