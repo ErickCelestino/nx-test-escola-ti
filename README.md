@@ -13,3 +13,4 @@
 - npm run prepare
 - npx husky add .husky/pre-commit "npx lint-staged"
 - npm i -D @nx/nest
+- npx nx g @nx/nest:application --name=api --frontendProject=front-web --directory=back --strict=true
